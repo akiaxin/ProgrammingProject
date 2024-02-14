@@ -2,7 +2,11 @@
 Info on project
 
 ## Members
-* Member Name: Role
+* Chloe Su: project manager/coder
+* Chloe Zou: coder/debugger
+* Symon Kim: 
+* Adele Hurley: audio/graphic design
+* Jialai Ying: tester
 
 ## Project Objective
 Features and goals
