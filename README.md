@@ -8,5 +8,5 @@ Info on project
 Features and goals
 
 ## UI and Logic Planning
-![Class Diagram](https://github.com/akiaxin/ProgrammingProject/blob/main/images/class%20diagram.png)
+![Class Diagram](https://github.com/akiaxin/ProgrammingProject/blob/main/images/SG7.png?raw=true)
 ![]()
