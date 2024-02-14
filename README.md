@@ -12,5 +12,5 @@ Info on project
 Features and goals
 
 ## UI and Logic Planning
-![Class Diagram](https://github.com/akiaxin/ProgrammingProject/blob/main/images/SG7.png?raw=true)
+![Class Diagram](https://github.com/akiaxin/ProgrammingProject/blob/main/images/Class%20Diagram%20Thingy.pdf)
 ![]()
