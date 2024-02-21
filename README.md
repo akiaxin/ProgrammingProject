@@ -1,4 +1,7 @@
 # Group Project
+Possible Names:
+The Surreal Ordeal of the Seal
+
 This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
 
 ## Members
