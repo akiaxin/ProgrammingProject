@@ -1,5 +1,5 @@
 # Group Project
-This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along this adventure.
+This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
 
 ## Members
 * Chloe Su: project manager/coder
