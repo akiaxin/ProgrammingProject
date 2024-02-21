@@ -1,6 +1,6 @@
 Seal
 
-Variables: Health, Damage, Weapon, Money, Armor
+Variables: Health, Damage, Weapon, Money, Armor, Protection
 
 Methods:
 - EquipWeapon(weapon, damage)
