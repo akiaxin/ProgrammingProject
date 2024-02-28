@@ -1,7 +1,0 @@
-NPC
-
-Variables: Width, Height, Health, Attack, Damage, Name, Money
-
-Methods:
-- Attack(str attack, int damage)
-- Death(money)
