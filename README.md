@@ -16,5 +16,5 @@ Our goal of this project is to connect users with an interactive game that allow
 ## UI and Logic Planning
 ![Class Diagram](https://github.com/akiaxin/creativename/blob/2db0986e8701a0e36b7d15bf912657f2670574de/images/classdiagram.pdf?raw=true)
 ![GUI]()
-![GUI continued]()
+
 
