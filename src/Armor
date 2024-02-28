@@ -1,6 +1,0 @@
-Armor
-
-Variables: Health, Protection, Name
-
-Methods:
-- equipArm(Health, Protection)
