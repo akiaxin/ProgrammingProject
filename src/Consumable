@@ -1,6 +1,0 @@
-Consumable
-
-Variables: effect, name, effectName
-
-Methods:
-- Use(effect, name, effectName)
