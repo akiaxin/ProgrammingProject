@@ -1,9 +1,0 @@
-Seal
-
-Variables: Health, Damage, Weapon, Money, Armor, Protection
-
-Methods:
-- EquipWeapon(weapon, damage)
-- EquipArmor(Armor, protection)
-- UseConsumable
-- GameOver()
