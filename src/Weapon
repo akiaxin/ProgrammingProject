@@ -1,7 +1,0 @@
-Weapon
-
-Variables: Ammo, Name
-
-Methods:
-- damageMult
-- addAmmo
