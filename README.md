@@ -7,7 +7,7 @@ This game comprises of a playable seal character that has been swept away from h
 ## Members
 * Chloe Su: project manager/coder
 * Chloe Zou: coder
-* Symon Kim: coder
+* Symon Kim: coder/graphic design
 * Adele Hurley: graphic design
 * Jialai Ying: tester
 
