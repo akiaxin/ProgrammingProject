@@ -6,15 +6,15 @@ This game comprises of a playable seal character that has been swept away from h
 
 ## Members
 * Chloe Su: project manager/coder
-* Chloe Zou: coder
+* Chloe Zou: coder/tester
 * Symon Kim: coder/graphic design
 * Adele Hurley: graphic design
-* Jialai Ying: tester
+* Jialai Ying: coder/tester
 
 ## Project Objective
 Our goal of this project is to connect users with an interactive game that allows them to play as an imaginary character and go along this adventure. With many choices and decisions to make, we hope that we can connect people in a special way with a fun and interesting adventure storyline.
 ## UI and Logic Planning
-![Class Diagram](https://github.com/akiaxin/creativename/blob/main/images/classdiagram.png?raw=true)
+![Class Diagram](https://github.com/akiaxin/creativename/blob/main/images/classdiagram(CS).png)
 ![GUI]()
 
 
