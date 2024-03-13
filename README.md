@@ -23,6 +23,6 @@ Our goal of this project is to connect users with an interactive game that allow
 3. Download python (if you're on Mac, it will be downloaded already)
 4. Open "Command Prompt" (for Winodws) or "Terminal" (if you're on Mac)
 5. In "Command Prompt" (if you're on Windows) or "Terminal" (if you're on Mac), type in 'pip3 install pygame' and hit enter
-6. navigate your way to the file through cd (moving into the folder) and ls (looking at what's in the folder)
+6. navigate your way to the file through the 'cd' command (moving into the folder) and the 'ls' command (looking at what's in the folder)
    - e.g. 'cd Downloads' would take you to what's in your downloads, and then 'ls' would allow you to see what's in the area to navigate further
 7. when you have finally navigated into the SealGameImageVar folder, type 'python3 main.py' to run the code
