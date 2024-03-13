@@ -16,7 +16,7 @@ Our goal of this project is to connect users with an interactive game that allow
 ![Class Diagram](https://github.com/akiaxin/creativename/blob/main/classdiagram(CS).drawio.png?raw=true)
 
 ## Download link:
-[Download](https://github.com/akiaxin/creativename/raw/main/src/SealGameImageVar.zip)
+[Download: Image correlation to the story](https://github.com/akiaxin/creativename/raw/main/src/SealGameImageVar.zip)
 [Download](https://github.com/akiaxin/creativename/raw/main/src/SealGame.zip)
 ### Download Instructions:
 1. Download the file
