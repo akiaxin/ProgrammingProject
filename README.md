@@ -16,3 +16,4 @@ Our goal of this project is to connect users with an interactive game that allow
 ![Class Diagram](https://github.com/akiaxin/creativename/blob/main/images/classdiagram(CS).png)
 ![GUI]()
 ## Download link:
+[Download](https://github.com/akiaxin/creativename/raw/main/src/SealGameImageVar.zip)
