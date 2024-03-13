@@ -11,7 +11,7 @@ This game comprises of a playable seal character that has been swept away from h
 
 
 ## Project Objective
-Our goal of this project is to connect users with an interactive game that allows them to play as an imaginary character and go along this adventure. With many choices and decisions to make, we hope that we can connect people in a special way with a fun and interesting adventure storyline.
+Our goal of this project is to connect users with an interactive game that allows them to play as an imaginary character and go along this adventure. With many choices and decisions to make, we hope that we can connect people in a special way with a fun and interesting adventure storyline presented to the people through fun graphics!
 ## UI and Logic Planning
 ![Class Diagram](https://github.com/akiaxin/creativename/blob/main/images/classdiagram(CS).png)
 ![GUI]()
