@@ -17,6 +17,7 @@ Our goal of this project is to connect users with an interactive game that allow
 
 ## Download link:
 [Download: Image correlation to the story](https://github.com/akiaxin/creativename/raw/main/src/SealGameImageVar.zip)
+
 [Download](https://github.com/akiaxin/creativename/raw/main/src/SealGame.zip)
 ### Download Instructions:
 1. Download the file
