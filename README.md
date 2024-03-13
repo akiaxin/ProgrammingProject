@@ -17,3 +17,11 @@ Our goal of this project is to connect users with an interactive game that allow
 ![GUI]()
 ## Download link:
 [Download](https://github.com/akiaxin/creativename/raw/main/src/SealGameImageVar.zip)
+### Download Instructions:
+1. Download the file
+2. Unzip it
+3. Download python (if you're on Mac, it will be downloaded already)
+4. In "Command Prompt" (if you're on Windows) or "Terminal" (if you're on Mac), type in 'pip3 install pygame'
+5. navigate your way to the file through cd (moving into the folder) and ls (looking at what's in the folder)
+   - e.g.'cd Downloads' would take you to what's in your downloads, and then 'ls' would allow you to see what's in the area to navigate further
+6. when you have finally navigated into the SealGameImageVar folder, type 'python3 main.py' to run the code
