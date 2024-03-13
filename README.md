@@ -1,6 +1,4 @@
-# Group Project
-Possible Names:
-The Surreal Ordeal of the Seal
+# The Surreal Ordeal of the Seal
 
 This game comprises of a playable seal character that has been swept away from his family. The goal of this game is to return to your family, with many twists and turns along the way!
 
@@ -17,3 +15,4 @@ Our goal of this project is to connect users with an interactive game that allow
 ## UI and Logic Planning
 ![Class Diagram](https://github.com/akiaxin/creativename/blob/main/images/classdiagram(CS).png)
 ![GUI]()
+## Download link:
